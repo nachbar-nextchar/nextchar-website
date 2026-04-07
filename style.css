@@ -135,7 +135,7 @@ p:last-child { margin-bottom: 0; }
 /* ── Hero ─────────────────────────────────────────────────── */
 .hero {
   position: relative;
-  background: url('images/farm.jpg') center center / cover no-repeat;
+  background: url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1800&auto=format&fit=crop') center center / cover no-repeat;
   padding: 100px 0 90px;
   overflow: hidden;
 }

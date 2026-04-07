@@ -142,7 +142,7 @@ p:last-child { margin-bottom: 0; }
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(20, 35, 10, 0.72);
+  background: rgba(10, 80, 10, 0.62);
 }
 .hero-inner {
   position: relative;
